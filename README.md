@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+%26+Full+Stack+Developer;GenAI+%7C+LLMs+%7C+Agentic+AI;Passionate+about+building+impactful+technology">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+%26+Full+Stack+Developer;GenAI+%7C+LLMs+%7C+Agentic+AI; Passionate+about+building+impactful+technology">
 </p>
 
 <p align="center">
