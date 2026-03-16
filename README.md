@@ -25,10 +25,10 @@
 
 # 👩‍💻 About Me
 
-✨ Computer Science Engineering Student  
-✨ Passionate about **AI, Web Development & Emerging Technologies**  
-✨ Interested in **Generative AI, Agentic Systems & Full Stack Development**  
-✨ Love building projects that solve **real-world problems**
+🚀 Computer Science Engineering student with a strong interest in AI and Full-Stack Development.  
+🧠 Exploring Generative AI, LLMs, RAG, and Agentic AI systems.  
+💻 Passionate about building scalable web applications and intelligent software solutions.  
+🌍 Driven to develop technology that solves real-world problems and creates meaningful impact.
 
 ---
 
