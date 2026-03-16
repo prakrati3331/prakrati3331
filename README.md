@@ -15,8 +15,6 @@
 
 # 🌐 Live Portfolio
 
-# 🌐 Live Portfolio
-
 <p align="center">
   <a href="https://portfolio-seven-chi-seu6vdeccu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -25,12 +23,6 @@
 
 <p align="center">
   💻 Personal website showcasing my projects, skills, and development journey.
-</p>
-
-<p align="center">
-<a href="https://portfolio-seven-chi-seu6vdeccu.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 </p>
 
 ---
