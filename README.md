@@ -123,20 +123,6 @@
 
 ---
 
-# 🚀 See My Live Projects
-
-<p align="center">
-  <a href="https://mitigating-educational-uncertainity-xwrr.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Project%201-Mitigating%20Educational%20Uncertainty-blue?style=for-the-badge&logo=render&logoColor=white"/>
-  </a>
-  
-  <a href="https://multi-agent-cognitive-soc-framework.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Project%202-Multi%20Agent%20SOC-black?style=for-the-badge&logo=render&logoColor=white"/>
-  </a>
-</p>
-
----
-
 # 👩‍💻 About Me
 
 🚀 Computer Science Engineering student with a strong interest in AI and Full-Stack Development.  
@@ -175,6 +161,30 @@
 🔗 REST APIs  
 🛠 Git & GitHub  
 🌐 Web Application Development  
+
+---
+
+# 🚀 Live Projects
+
+<p align="center">
+  <b>✨ Explore my deployed work in action ✨</b>
+</p>
+
+<p align="center">
+  <a href="https://mitigating-educational-uncertainity-xwrr.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🎓%20Mitigating%20Educational%20Uncertainty-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://multi-agent-cognitive-soc-framework.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🤖%20Multi-Agent%20SOC%20Framework-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Real-world AI systems built with GenAI, multi-agent workflows & full-stack tech
+</p>
 
 ---
 
