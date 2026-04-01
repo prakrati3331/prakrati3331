@@ -187,7 +187,7 @@
 
 <td align="center" width="50%">
 
-### 🤖 Multi-Agent SOC Framework  
+### 🤖 Cognitive SOC Framework  
 🧠 Advanced GenAI system with multi-agent workflows  
 
 <a href="https://multi-agent-cognitive-soc-framework.onrender.com/" target="_blank">
