@@ -164,26 +164,44 @@
 
 ---
 
-# 🚀 Live Projects
+# 🚀 Featured Live Projects  
 
 <p align="center">
-  <b>✨ Explore my deployed work in action ✨</b>
+  <b>💡 Real-world AI + Full Stack systems built & deployed by me</b>
 </p>
 
-<p align="center">
-  <a href="https://mitigating-educational-uncertainity-xwrr.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/🎓%20Mitigating%20Educational%20Uncertainty-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎓 Mitigating Educational Uncertainty  
+🔍 AI-driven platform solving real-world education challenges  
+
+<a href="https://mitigating-educational-uncertainity-xwrr.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Project-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🤖 Multi-Agent SOC Framework  
+🧠 Advanced GenAI system with multi-agent workflows  
+
+<a href="https://multi-agent-cognitive-soc-framework.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Project-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <a href="https://multi-agent-cognitive-soc-framework.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🤖%20Multi-Agent%20SOC%20Framework-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  🚀 Real-world AI systems built with GenAI, multi-agent workflows & full-stack tech
+✨ <i>Click on the buttons above to explore my projects in action</i> ✨
 </p>
 
 ---
