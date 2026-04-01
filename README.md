@@ -167,7 +167,7 @@
 # 🚀 Featured Live Projects  
 
 <p align="center">
-  <b>💡 Real-world AI systems built with GenAI, ML, multi-agent workflows & full-stack tech</b>
+  <b>💡 Real-world AI systems built with GenAI, ML, multi-agent workflows & full-stack technology</b>
 </p>
 
 <br>
