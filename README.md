@@ -167,7 +167,7 @@
 # 🚀 Featured Live Projects  
 
 <p align="center">
-  <b>💡 Real-world AI + Full Stack systems built & deployed by me</b>
+  <b>💡 Real-world AI systems built with GenAI, ML, multi-agent workflows & full-stack tech</b>
 </p>
 
 <br>
